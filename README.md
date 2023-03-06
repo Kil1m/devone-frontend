@@ -1,2 +1,2 @@
-# devlake-demo-frontend
-the frontend of devlake
+# devone-frontend
+the frontend of devone
